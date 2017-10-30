@@ -80,7 +80,6 @@
     <PostDeploy Include="Script.PostDeployment1.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="FormacaoDatabase.jfm" />
     <None Include="FormacaoDatabase.publish.xml" />
   </ItemGroup>
 </Project>
